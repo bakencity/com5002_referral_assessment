@@ -13,7 +13,7 @@ The repository includes continuous splunk history over 4 weeks.
    Reflect on SOC processes, detection gaps, and incident handling implications.
 
 
-3. Environment Setup
+4. Environment Setup
 VirtualBox running Ubuntu 22.04 LTS
 
 Splunk Enterprise (Free License)
