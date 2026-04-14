@@ -6,11 +6,11 @@ This repository contains the full investigation and analysis of the Boss of the 
 The repository includes continuous splunk history over 4 weeks.
 
 2. Objectives
-1.	Reconstruct adversary activity on Frothly endpoints using Splunk queries.
-2.	Demonstrate SOC‑aligned analytical reasoning across detection, triage, and incident reconstruction.
-3.	Provide evidence‑based answers to the guided BOTSv3 questions.
-4.	Present findings in a professional format suitable for SOC leadership and technical stakeholders.
-5.	Reflect on SOC processes, detection gaps, and incident handling implications.
+   Reconstruct adversary activity on Frothly endpoints using Splunk queries.
+   Demonstrate SOC‑aligned analytical reasoning across detection, triage, and incident reconstruction.
+   Provide evidence‑based answers to the guided BOTSv3 questions.
+   Present findings in a professional format suitable for SOC leadership and technical stakeholders.
+   Reflect on SOC processes, detection gaps, and incident handling implications.
 
 
 3. Environment Setup
