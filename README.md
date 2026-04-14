@@ -3,17 +3,7 @@ University of Plymouth Assessment (MSc Cyber Security)
 1. Overview
 This repository contains the full investigation and analysis of the Boss of the SOC Version 3 (BOTSv3) dataset as part of the COMP5002 module. The project demonstrates Splunk‑based incident investigation, SOC methodology application, and endpoint‑focused threat analysis.
 
-The repository includes:
-
-The full written report (PDF)
-
-Splunk queries used during analysis
-
-Screenshots and evidence
-
-A 10‑minute video presentation
-
-Continuous commit history over 4 weeks
+The repository includes continuous splunk history over 4 weeks.
 
 2. Objectives
 1.	Reconstruct adversary activity on Frothly endpoints using Splunk queries.
