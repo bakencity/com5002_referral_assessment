@@ -1,3 +1,4 @@
+Link to video: https://youtu.be/q5_hu6vYhzo
 Overview
 This repository documents my full investigation of endpoint‑centric malicious activity in the Boss of the SOC v3 (BOTSv3) dataset using Splunk Enterprise.
 It explains:
@@ -190,4 +191,4 @@ Tier 2: Correlated logs across HTTP, SMTP, osquery, and PowerShell.
 
 Tier 3: Interpreted obfuscated commands and validated C2 behaviour.
 
-Link to video: 
+Link to video: https://youtu.be/q5_hu6vYhzo
