@@ -135,7 +135,7 @@ Finding
 
 Answer: 8
 
-4.5 What is the path of the C2 URL?
+4.5 What is the path of the URL being accessed by the command and control server?
 Query
 
 index=botsv3 sourcetype=wineventlog EventCode=4104
@@ -153,7 +153,7 @@ Three values appeared, but only one matched known BOTSv3 C2 behaviour:
 
 Answer: /admin/get.php
 
-4.6 Which endpoints contacted the C2 infrastructure?
+4.6 At least two Frothly endpoints contact the adversary’s command and control infrastructure. What are their short hostnames?
 Query
 
 index=botsv3 sourcetype=stream:* dest_ip="45.77.53.176"
